@@ -35,7 +35,11 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=01Juan" alt="01Juan" align="center"/>
+  <img src="https://komarev.com/ghpvc/?username=01Juan" alt="01Juan" />
+</p>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=01Juan" alt="01Juan" align="center" />
 </p>
 
 <p style="align-items: center;">
