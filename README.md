@@ -46,7 +46,7 @@
   <img src="https://komarev.com/ghpvc/?username=01Juan" alt="01Juan" />
 </p>
 
-<p style="text-align: center;">
+<p text-align="center">
   <img src="https://komarev.com/ghpvc/?username=01Juan" alt="01Juan" />
 </p>
 
