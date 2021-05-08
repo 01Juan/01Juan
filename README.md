@@ -49,3 +49,9 @@
 <p style="text-align: center;">
   <img src="https://komarev.com/ghpvc/?username=01Juan" alt="01Juan" />
 </p>
+
+<style>
+  p{
+    text-align: center;
+  }
+</style>
