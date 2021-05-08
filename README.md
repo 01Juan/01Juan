@@ -1,31 +1,16 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> Olá, Eu sou o Juan!</h1>
 
 <p align="center">
-  <img src="https://cdn.statically.io/gh/devicons/devicon/c7d326b6/icons/html5/html5-original.svg" width=32px
-    height=32px />
-  <img src="https://cdn.statically.io/gh/devicons/devicon/c7d326b6/icons/css3/css3-original.svg" width=32px
-    height=32px />
-  <img src="https://cdn.statically.io/gh/devicons/devicon/c7d326b6/icons/javascript/javascript-original.svg" width=32px
-    height=32px />
-<!--   <img src="https://cdn.statically.io/gh/devicons/devicon/c7d326b6/icons/php/php-original.svg" width=32px height=32px /> -->
-  <img src="https://cdn.statically.io/gh/devicons/devicon/c7d326b6/icons/nodejs/nodejs-original.svg" width=32px
-    height=32px />
-  <img src="https://cdn.statically.io/gh/devicons/devicon/c7d326b6/icons/mysql/mysql-original.svg" width=32px
-    height=32px />
-  <img src="https://cdn.statically.io/gh/devicons/devicon/c7d326b6/icons/mongodb/mongodb-original.svg" width=32px
-    height=32px />
-  <img src="https://cdn.statically.io/gh/devicons/devicon/c7d326b6/icons/react/react-original.svg" width=32px
-    height=32px />
-  <img src="https://cdn.statically.io/gh/devicons/devicon/c7d326b6/icons/nextjs/nextjs-original.svg" width=32px
-    height=32px />
-  <img src="https://cdn.statically.io/gh/devicons/devicon/c7d326b6/icons/express/express-original.svg" width=32px
-    height=32px />
-  <img src="https://cdn.statically.io/gh/devicons/devicon/c7d326b6/icons/npm/npm-original-wordmark.svg" width=32px
-    height=32px />
-  <img src="https://cdn.statically.io/gh/devicons/devicon/c7d326b6/icons/yarn/yarn-original.svg" width=32px
-    height=32px />
-  <img src="https://cdn.statically.io/gh/devicons/devicon/c7d326b6/icons/typescript/typescript-original.svg" width=32px
-    height=32px />
+  <img src="https://cdn.statically.io/gh/devicons/devicon/c7d326b6/icons/html5/html5-original.svg" width=32 height=32 />
+  <img src="https://cdn.statically.io/gh/devicons/devicon/c7d326b6/icons/css3/css3-original.svg" width=32 height=32 />
+  <img src="https://cdn.statically.io/gh/devicons/devicon/c7d326b6/icons/javascript/javascript-original.svg" width=32 height=32 />
+  <img src="https://cdn.statically.io/gh/devicons/devicon/c7d326b6/icons/nodejs/nodejs-original.svg" width=32 height=32 />
+  <img src="https://cdn.statically.io/gh/devicons/devicon/c7d326b6/icons/mysql/mysql-original.svg" width=32 height=32 />
+  <img src="https://cdn.statically.io/gh/devicons/devicon/c7d326b6/icons/mongodb/mongodb-original.svg" width=32 height=32 />
+  <img src="https://cdn.statically.io/gh/devicons/devicon/c7d326b6/icons/express/express-original.svg" width=32 height=32 />
+  <img src="https://cdn.statically.io/gh/devicons/devicon/c7d326b6/icons/npm/npm-original-wordmark.svg" width=32 height=32 />
+  <img src="https://cdn.statically.io/gh/devicons/devicon/c7d326b6/icons/yarn/yarn-original.svg" width=32 height=32 />
+  <img src="https://cdn.statically.io/gh/devicons/devicon/c7d326b6/icons/typescript/typescript-original.svg" width=32 height=32 />
 </p>
 
 <p align="center">
@@ -39,16 +24,16 @@
 
 <p align="center">
   <a href="https://github.com/01Juan" target="blank" alt="Github" title="Github">
-    <img src="https://cdn.statically.io/gh/feathericons/feather/a718a7e9/icons/github.svg" width=32px height=32px />
+    <img src="https://cdn.statically.io/gh/feathericons/feather/a718a7e9/icons/github.svg" width=32 height=32 />
   </a>
   <a href="https://linkedin.com/in/ssjuan/" target="blank" alt="Linkedin" title="Linkedin">
-    <img src="https://cdn.statically.io/gh/feathericons/feather/a718a7e9/icons/linkedin.svg" width=32px height=32px />
+    <img src="https://cdn.statically.io/gh/feathericons/feather/a718a7e9/icons/linkedin.svg" width=32 height=32 />
   </a>
   <a href="mailto:ssjuantj@gmail.com" target="blank" alt="Linkedin" title="Linkedin">
-    <img src="https://cdn.statically.io/gh/feathericons/feather/a718a7e9/icons/mail.svg" width=32px height=32px />
+    <img src="https://cdn.statically.io/gh/feathericons/feather/a718a7e9/icons/mail.svg" width=32 height=32 />
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=01Juan" alt="01Juan" />
+<p>
+  <img src="https://komarev.com/ghpvc/?username=01Juan" alt="01Juan" align="center"/>
 </p>
