@@ -4,13 +4,13 @@
   <img src="https://cdn.statically.io/gh/devicons/devicon/c7d326b6/icons/html5/html5-original.svg" width=32 height=32 />
   <img src="https://cdn.statically.io/gh/devicons/devicon/c7d326b6/icons/css3/css3-original.svg" width=32 height=32 />
   <img src="https://cdn.statically.io/gh/devicons/devicon/c7d326b6/icons/javascript/javascript-original.svg" width=32 height=32 />
-  <img src="https://cdn.statically.io/gh/devicons/devicon/c7d326b6/icons/nodejs/nodejs-original.svg" width=32 height=32 />
+<!--   <img src="https://cdn.statically.io/gh/devicons/devicon/c7d326b6/icons/nodejs/nodejs-original.svg" width=32 height=32 />
   <img src="https://cdn.statically.io/gh/devicons/devicon/c7d326b6/icons/mysql/mysql-original.svg" width=32 height=32 />
   <img src="https://cdn.statically.io/gh/devicons/devicon/c7d326b6/icons/mongodb/mongodb-original.svg" width=32 height=32 />
   <img src="https://cdn.statically.io/gh/devicons/devicon/c7d326b6/icons/express/express-original.svg" width=32 height=32 />
   <img src="https://cdn.statically.io/gh/devicons/devicon/c7d326b6/icons/npm/npm-original-wordmark.svg" width=32 height=32 />
   <img src="https://cdn.statically.io/gh/devicons/devicon/c7d326b6/icons/yarn/yarn-original.svg" width=32 height=32 />
-  <img src="https://cdn.statically.io/gh/devicons/devicon/c7d326b6/icons/typescript/typescript-original.svg" width=32 height=32 />
+  <img src="https://cdn.statically.io/gh/devicons/devicon/c7d326b6/icons/typescript/typescript-original.svg" width=32 height=32 /> -->
 </p>
 
 <p align="center">
