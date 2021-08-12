@@ -28,7 +28,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/01Juan" target="blank" alt="Github" title="Github>
+  <a href="https://github.com/01Juan" target="blank" alt="Github" title="Github">
     <img src="https://cdn.statically.io/gh/feathericons/feather/a718a7e9/icons/github.svg" width=32 height=32 />
   </a>
   <a href="https://linkedin.com/in/ssjuan/" target="blank" alt="Linkedin" title="Linkedin">
