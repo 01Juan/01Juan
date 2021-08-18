@@ -22,9 +22,9 @@
     src="https://github-readme-stats.vercel.app/api?username=01Juan&hide_title=true&show_icons=true&theme=midnight-purple&hide_border=true&custom_title=Estat%C3%ADsticas%20de%20Juan%20Santos%20no%20GitHub"
     alt="01Juan" /> -->
   </br>
-  <img align="" height='150px'
+<!--   <img align="" height='150px'
     src="https://github-readme-stats.vercel.app/api?username=01Juan&hide_title=true&show_icons=true&hide_border=true&custom_title=Estat%C3%ADsticas%20de%20Juan%20Santos%20no%20GitHub"
-    alt="01Juan" />
+    alt="01Juan" /> -->
 </p>
 
 <p align="center">
