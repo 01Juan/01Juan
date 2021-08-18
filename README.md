@@ -39,6 +39,6 @@
   </a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=01Juan" alt="01Juan" />
-</p>
+</p> -->
