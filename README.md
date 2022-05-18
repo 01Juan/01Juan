@@ -13,10 +13,10 @@
   <img src="https://cdn.statically.io/gh/devicons/devicon/c7d326b6/icons/typescript/typescript-original.svg" width=32 height=32 /> -->
 </p>
 
-<p align="center">
+<!-- <p align="center"> -->
 <!--   <img align="" height='150px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=01Juan&hide_title=true&layout=compact&theme=midnight-purple&count_private=true" /> -->
-  <img align="" height='150px'
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=01Juan&hide_title=true&hide_border=true&layout=compact&count_private=true" />
+<!--   <img align="" height='150px'
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=01Juan&hide_title=true&hide_border=true&layout=compact&count_private=true" /> -->
 <!--   </br>
   <img align="" height='150px'
     src="https://github-readme-stats.vercel.app/api?username=01Juan&hide_title=true&show_icons=true&theme=midnight-purple&hide_border=true&custom_title=Estat%C3%ADsticas%20de%20Juan%20Santos%20no%20GitHub"
@@ -25,7 +25,7 @@
 <!--   <img align="" height='150px'
     src="https://github-readme-stats.vercel.app/api?username=01Juan&hide_title=true&show_icons=true&hide_border=true&custom_title=Estat%C3%ADsticas%20de%20Juan%20Santos%20no%20GitHub"
     alt="01Juan" /> -->
-</p>
+<!-- </p> -->
 
 <p align="center">
   <a href="https://01juan.github.io/" target="blank" alt="Github" title="Github">
