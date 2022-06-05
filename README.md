@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> Olá, Eu sou o Juan!</h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width=32> Olá, Eu sou o Juan!</h1>
 
 <p align="center">
   <img src="https://cdn.statically.io/gh/devicons/devicon/c7d326b6/icons/html5/html5-original.svg" width=32 height=32 />
@@ -31,13 +31,13 @@
 </p>
 
 <p align="center">
-  <a href="https://01juan.github.io/" target="blank" alt="Github" title="Github">
+  <a href="https://01juan.github.io/" target="_blank" alt="Github" title="Github">
     <img src="https://cdn.statically.io/gh/feathericons/feather/a718a7e9/icons/github.svg" width=32 height=32 />
   </a>
-  <a href="https://linkedin.com/in/ssjuan/" target="blank" alt="Linkedin" title="Linkedin">
+  <a href="https://linkedin.com/in/ssjuan/" target="_blank" alt="Linkedin" title="Linkedin">
     <img src="https://cdn.statically.io/gh/feathericons/feather/a718a7e9/icons/linkedin.svg" width=32 height=32 />
   </a>
-  <a href="mailto:ssjuantj@gmail.com" target="blank" alt="Linkedin" title="Linkedin">
+  <a href="mailto:ssjuantj@gmail.com" target="_blank" alt="Linkedin" title="E-mail">
     <img src="https://cdn.statically.io/gh/feathericons/feather/a718a7e9/icons/mail.svg" width=32 height=32 />
   </a>
 </p>
